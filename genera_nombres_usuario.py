@@ -5,7 +5,7 @@ import random
 
 def generador_usuario():
     usuario = input("ingrese nombre y ap:")
-
+  
     num_random = random.randint(0, 9)
     numero = str(num_random)
 
